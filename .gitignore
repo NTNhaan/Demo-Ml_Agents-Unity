@@ -1,0 +1,27 @@
+# Ignore Unity generated files
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+UserSettings/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore ML-Agents training results
+results/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
